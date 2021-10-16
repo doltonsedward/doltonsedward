@@ -4,11 +4,11 @@ I'm Doltons Edward N Pabiaran - aka <a href="https://github.com/doltonsedward">D
 
 <br>
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🔭 I’m currently student at DumbWays.id
+- 🌱 I’m currently learning Fullstack and UI UX Design
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🥅 2021 Goals: Realize my dream as a programmer and work as a programmer
+- ⚡ Fun fact: I love design and music
 
 <br>
 
