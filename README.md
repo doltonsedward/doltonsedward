@@ -8,7 +8,7 @@ I'm Doltons Edward N Pabiaran - aka <a href="https://github.com/doltonsedward">D
 - 🌱 I’m currently learning Fullstack and UI UX Design
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Realize my dream as a programmer and work as a programmer
-- ⚡ Fun fact: I love design and music
+- ⚡ Fun fact: I love design and game
 
 <br>
 
