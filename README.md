@@ -4,10 +4,10 @@ I'm Doltons Edward N Pabiaran - aka <a href="https://github.com/doltonsedward">D
 
 <br>
 
-- 🔭 I’m currently student at DumbWays.id
+- 🔭 I’m currently working as Mobile App Developer
 - 🌱 I’m currently learning Fullstack and UI UX Design
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Realize my dream as a programmer and work as a programmer
+- 🥅 2022 Goals: Be smart programmer
 - ⚡ Fun fact: I love design and game
 
 <br>
