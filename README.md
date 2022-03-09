@@ -7,7 +7,7 @@ My workspace: <a href="https://github.com/orgs/dollong-workspace/">Click here</a
 <br>
 
 - 🔭 I’m currently working as Mobile App Developer
-- 🌱 I’m currently learning Fullstack and UI UX Design
+- 🌱 I'm currently enjoy using Svelte and Go
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Be smart programmer
 - ⚡ Fun fact: I love design and game
