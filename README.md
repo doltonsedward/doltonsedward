@@ -9,7 +9,7 @@ My workspace: <a href="https://github.com/orgs/dollong-workspace/">Click here</a
 - 🔭 I’m currently working as Mobile App Developer and Learning Support
 - 🌱 I'm currently enjoy using Svelte and Go
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Be smart programmer
+- 🥅 2022 Goals: Be book reader
 - ⚡ Fun fact: I love design and game
 
 <br>
