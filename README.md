@@ -6,11 +6,17 @@ My workspace: <a href="https://github.com/orgs/dollong-workspace/">Click here</a
 
 <br>
 
-- 🔭 I’m currently working as Mobile App Developer and Learning Support
+<!-- - 🔭 I’m currently working as Mobile App Developer and Learning Support
 - 🌱 I'm currently enjoy using Svelte and Go
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Be book reader
-- ⚡ Fun fact: I love design and game
+- ⚡ Fun fact: I love design and game -->
+
+<!-- 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/doltonsedward/count.svg" />
+</p> -->
 
 <br>
 
